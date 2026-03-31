@@ -1,4 +1,4 @@
-Hi there, I'm [Lamia] 👋
+Hi there, I'm Lamia 👋
 
 I'm a Business Analyst  who loves analyzing things that matter. Whether it's a side project at midnight or collaborating with a team, I enjoy every part of the process — from the first commit to the final deploy.
 
